@@ -29,10 +29,10 @@ permalink: "/resume"
 {% endunless %}
 {% unless site.twitter_username == '' %}
 <br />
-<a href="https://public.tableau.com/app/profile/claudia.chajon" target="_blank" class="has-text-black"><i class="fa-regular fa-chart-column"></i> Tableau Profile/</a>
+<a href="https://public.tableau.com/app/profile/claudia.chajon" target="_blank" class="has-text-black"><i class="fa-light fa-chart-mixed"></i> Tableau Profile</a>
 {% endunless %}
 <br />
-<a href="assets/images/Claudia_Chajon_Resume.pdf" target="_blank" class="has-text-black"><i class="fa-regular fa-file-pdf"></i> Resume</a>
+<a href="assets/images/Claudia_Chajon_Resume.pdf" target="_blank" class="has-text-black"><i class="fa-light fa-file-lines"></i> Resume</a>
 </div>
 
 # Education
