@@ -2,20 +2,20 @@
 markdown: kramdown
 
 # URL of the Site
-url: 'claudiasofiaC.github.io'
+url: 'https://claudiasofiaC.github.io'
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
 baseurl:
 
 # Title of the Site
 title: Claudia Chajon
 # Description of the Site
-description: Data Scientist | Data Enthusiast | Plant Mom
+description: full stack data scientist | data enthusiast | plant mom
 # URL of Image of the Site
-site-image: assets/images/banner.png
+site-image: /assets/images/banner.png
 # Keywords of the Site
-site-keywords: data science, data analysis, visualization, data, machine learning
+site-keywords: claudia chajon, data science, data visualization, machine learning, data analyst
 # URL for the Image of custom Favicon
-favicon-url: 
+favicon-url:
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
 heroimage: https://images.unsplash.com/photo-1516417156595-3ca5df62a3a4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1631&q=80
@@ -43,9 +43,17 @@ disqus-shortname:
 # Name of the Author
 author-name: Claudia Chajon
 # URL for the Image of the Author
-author-image: assets/images/prof_pic.png
+author-image: /assets/images/prof_pic.png
 # 60 Words About the Author
-author-about: "Hi! I'm <strong>Claudia Chajon</strong>. I'm currently enjoying life by coding, crocheting, collecting plants and rowing in New York City, NY.<br /><br />"
+author-about: full stack data scientist | data enthusiast | plant mom
+# Longer description of the Author
+author-about-long: "Hi! I'm <strong>Claudia Chajon</strong>. I'm currently enjoying life by coding, crocheting, collecting plants and rowing in New York City.<br /><br />
+
+I've had a somewhat of an unconventional path to data science but I wouldn't change a thing about what has brought me to this point. You can check out my work on my <a href='/blog'>personal blog</a>, where I apply my creative background to solve data problems.<br /><br />
+
+I use my experience to  foster creative environments that cultivate ideas big and small. From the start of my career, I bring creative energy, originality, and a fresh approach to digital experiences.<br /><br />
+
+I love to talk data, crochet and plants, please feel free to reach out and start a conversation!."
 # URL to the Author's Profile (i.e., Github, Twitter, Stackoverflow, etc)
 author-url: /#about
 
@@ -58,6 +66,7 @@ sass:
 plugins:
   - jekyll-admin
   - jekyll-feed
+  - jekyll-sitemap
 
 # Permalink
 permalink: "blog/:title"
@@ -83,7 +92,7 @@ defaults:
     values:
       layout: page
 
-# Exclude
+# Excludes
 exclude:
   - .sass-cache/
   - .jekyll-cache/

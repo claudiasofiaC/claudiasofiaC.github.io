@@ -3,7 +3,7 @@
 
 #### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
 
-![WhatATheme](assets/images/meta.jpg)
+![WhatATheme](assets/images/banner.png)
 
 # Features :sparkles:
 * Free and Easy setup
