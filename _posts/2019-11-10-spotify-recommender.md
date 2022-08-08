@@ -1,7 +1,7 @@
 ---
 title: "Spotify Song Recommender"
 layout: post
-post-image: "https://raw.githubusercontent.com/thedevslot/WhatATheme/master/assets/images/SamplePost.png?token=AHMQUEPC4IFADOF5VG4QVN26Z64GG"
+post-image: "https://images.unsplash.com/photo-1484704849700-f032a568e944?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
 description: Program project, build a recommender system to recommend similar songs using Spotify's API.
 categories: 
 - machine learning
@@ -20,9 +20,11 @@ permalink: "/2019/11/10/spotify-recommender/"
 
 [See the work](https://github.com/claudiasofiaC/spotify_nn)
 
-<p>Implemented a K-nearest neighbors model to recommend songs to users based on their profiles. The features that make up a song are unique to Spotify.</p>
-<p>Songs were recommended based on how alike they were based on selected features.</p>
-<p>Spotify engineers their own features and while they might have funny names, the features are great metrics to compare songs to one another.</p>
+Implemented a K-nearest neighbors model to recommend songs to users based on their profiles. The features that make up a song are unique to Spotify.
+
+Songs were recommended based on how alike they were based on selected features.
+
+Spotify engineers their own features and while they might have funny names, the features are great metrics to compare songs to one another.
 
 ![features](/assets/images/blog_post_images/spot_features.png)
 
