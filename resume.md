@@ -38,7 +38,8 @@ permalink: "/resume"
 # Education
 
 [Bloomtech Institute of Technology](https://www.bloomtech.com/hire-from-bloomtech) | (fka Lambda School) | 2019-2020
-[/assets/images/badge.png](https://www.credly.com/badges/3c7186dc-dfb8-4a22-b974-5c5b7ab5803e/public_url)
+
+[Badge](https://www.credly.com/badges/3c7186dc-dfb8-4a22-b974-5c5b7ab5803e/public_url)
 
 - 9 month, 2000+ hour, mastery-based, full-stack data science curriculum
 - Demonstrated mastery in: Machine Learning, Data Science Statistics, Big Data Analytics, Probability & Discrete Mathematics
