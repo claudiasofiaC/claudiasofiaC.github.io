@@ -27,12 +27,11 @@ permalink: "/resume"
 <br />
 <a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black"><i class="fab fa-github"></i> {{site.github_username}}</a>
 {% endunless %}
-{% unless site.twitter_username == '' %}
 <br />
-<a href="https://public.tableau.com/app/profile/claudia.chajon" target="_blank" class="has-text-black"><i class="fa-light fa-chart-mixed"></i> Tableau Profile</a>
+<a href="https://public.tableau.com/app/profile/claudia.chajon" target="_blank" class="has-text-black"><i class="fa-light fa-chart-column"></i> tableau profile</a>
 {% endunless %}
 <br />
-<a href="assets/images/Claudia_Chajon_Resume.pdf" target="_blank" class="has-text-black"><i class="fa-light fa-file-lines"></i> Resume</a>
+<a href="assets/images/Claudia_Chajon_Resume.pdf" target="_blank" class="has-text-black"><i class="fa-light fa-file-pdf"></i> resume</a>
 </div>
 
 # Education
