@@ -15,7 +15,7 @@ permalink: "/resume"
 
 # Data Scientist
 
-<div class="column is-full is-size-4">
+<div class="column is-full is-size-5">
 {% unless site.email == '' %}
 <a href="mailto:{{site.email}}" target="_blank" class="has-text-black"><i class="fas fa-envelope"></i> {{site.email}}</a>
 {% endunless %}
@@ -29,7 +29,6 @@ permalink: "/resume"
 {% endunless %}
 <br />
 <a href="https://public.tableau.com/app/profile/claudia.chajon" target="_blank" class="has-text-black"><i class="fa-light fa-chart-column"></i> tableau profile</a>
-{% endunless %}
 <br />
 <a href="assets/images/Claudia_Chajon_Resume.pdf" target="_blank" class="has-text-black"><i class="fa-light fa-file-pdf"></i> resume</a>
 </div>
