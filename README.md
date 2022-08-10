@@ -3,7 +3,7 @@
 
 #### You can checkout the [**Demo Here**](https://thedevslot.github.io/WhatATheme/) :boom:
 
-![WhatATheme](assets/images/banner.png)
+![WhatATheme](assets/images/Blue and Yellow Modern Artisan Parties and Celebrations X-Frame Banner.png)
 
 # Features :sparkles:
 * Free and Easy setup
