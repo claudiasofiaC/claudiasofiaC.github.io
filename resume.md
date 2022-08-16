@@ -28,9 +28,9 @@ permalink: "/resume"
 <a href="http://www.github.com/{{site.github_username}}" target="_blank" class="has-text-black"><i class="fab fa-github"></i> {{site.github_username}}</a>
 {% endunless %}
 <br />
-<a href="https://public.tableau.com/app/profile/claudia.chajon" target="_blank" class="has-text-black"><i class="fa-solid fa-chart-column"></i> tableau profile</a>
+<a href="https://public.tableau.com/app/profile/claudia.chajon" target="_blank" class="has-text-black"><i class="fa fa-area-chart" aria-hidden="true"></i> tableau profile</a>
 <br />
-<a href="/assets/images/Claudia_Chajon.pdf" target="_blank" class="has-text-black"><i class="fa-solid fa-file-pdf"></i> resume</a>
+<a href="/assets/images/Claudia_Chajon.pdf" target="_blank" class="has-text-black"><i class="fa fa-download" aria-hidden="true"></i> resume</a>
 </div>
 
 # Education
