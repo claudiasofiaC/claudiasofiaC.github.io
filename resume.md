@@ -30,7 +30,7 @@ permalink: "/resume"
 <br />
 <a href="https://public.tableau.com/app/profile/claudia.chajon" target="_blank" class="has-text-black"><i class="fa-solid fa-chart-column"></i> tableau profile</a>
 <br />
-<a href="assets/images/Claudia_Chajon.pdf" target="_blank" class="has-text-black"><i class="fa-solid fa-file-pdf"></i> resume</a>
+<a href="/assets/images/Claudia_Chajon.pdf" target="_blank" class="has-text-black"><i class="fa-solid fa-file-pdf"></i> resume</a>
 </div>
 
 # Education
