@@ -1,0 +1,28 @@
+---
+title: "Trends in Living Arrangements Amongst Young Adults"
+layout: post
+post-image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80"
+description: Tableau KPI dashboard using Real World Fake Data.
+categories:
+- Tableau
+tags:
+- Census
+- Tableau
+author:
+  display_name: Claudia Chajon
+  first_name: Claudia
+  last_name: Chajon
+permalink: "/2022/09/13/livingarrangements/"
+---
+<h3>Visualizing Census Data to See Trends in Living Arrangements Amongst Young Adults in the US</h3>
+
+[See the work](https://public.tableau.com/views/LivingArrangementsAmongstYoungAdultsCensus/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
+
+Source: U.S. Census Bureau, Current Population Survey, Annual Social and Economic Supplement, 1967 to present
+
+
+
+We are taking a peek at living arrangement trends in the US for people ages 25-34.
+
+The data is sourced from the US Census Bureau ranges from 1967 to 2021. The various visualiztions created with this data show how living arrangemnts have changed over the years.
+
