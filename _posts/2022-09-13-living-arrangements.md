@@ -14,6 +14,10 @@ author:
   last_name: Chajon
 permalink: "/2022/09/13/living-arrangements/"
 ---
+
+
+
+
 <h3>Trends in Living Arrangements Amongst Young Adults</h3>
 
 [See the work]([https://public.tableau.com/views/HumanResourcesDashboardRWFD/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/LivingArrangementsAmongstYoungAdultsCensus/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
@@ -22,14 +26,18 @@ Source: U.S. Census Bureau, Current Population Survey, Annual Social and Economi
 
 
 
-We are taking a peek at trends in living arrangements amongst young adults ages 25-34 in the US!
+---
 
-The data is sourced from the US Census Bureau from the years 1967 to 2021. 
+
+The data is sourced from the US Census Bureau from the years 1967 to 2021.
 
 ![](/assets/images/blog_post_images/women_men.png)
 
-Living with your spouse is the most common living arrangement among young adults, though it has seen a steady downward trend since the 60's. This category has had a drop in popularity of more than half since 1967. Social norms in the US have generally trended towards conservative, and this is evident in the living arrangments seen here.
+Living with your spouse is the most common living arrangement among young adults, though it has seen a steady downward trend since the 60's. This category has had a drop in popularity of more than half since 1967. Social norms in the US have generally trended towards conservative, and this is evident in the living arrangements seen here.
 
-However, over the years, social norms have steadily leaned away from antiquated thinking. The data shows that women living with their partner has gone from 0% in 1967 to 17% in 2021. 
+However, over the years, social norms have steadily leaned away from antiquated thinking. The data shows that women living with their partner has gone from 0% in 1967 to 17% in 2021.
 
 ![](/assets/images/blog_post_images/men_women_2021.png)
+
+
+These changes in living situations can be attributed to changing social norms, laws, financial independence, and accessibility, among other factors. Living arrangements are not static and can change from year to year depending on life situations. I, myself have been through a few of the different categories of living arrangements in my own life. It is exciting to see what the next ten years holds for young adults in the US.
