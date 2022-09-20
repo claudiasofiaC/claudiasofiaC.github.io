@@ -15,30 +15,30 @@ author:
 permalink: "/2022/09/13/living-arrangements/"
 ---
 
---
+
 ---
 
 
 <h3>Trends in Living Arrangements Amongst Young Adults</h3>
 
---
+
 ---
 
 
 
---
+
 ---
 [See the work]([https://public.tableau.com/views/HumanResourcesDashboardRWFD/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/LivingArrangementsAmongstYoungAdultsCensus/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
 
 Source: U.S. Census Bureau, Current Population Survey, Annual Social and Economic Supplement, 1967 to present
 ---
---
+
 
 ---
 
---
+
 The data is sourced from the US Census Bureau from the years 1967 to 2021.
---
+
 ---
 
 
