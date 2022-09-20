@@ -16,9 +16,16 @@ author:
   last_name: Chajon
 permalink: "/2019/11/10/spotify-recommender/"
 ---
+
+--
 <h3>Recommendation model using Spotify songs and features</h3>
+--
+---
+
 
 [See the work](https://github.com/claudiasofiaC/spotify_nn)
+--
+---
 
 Implemented a K-nearest neighbors model to recommend songs to users based on their profiles. The features that make up a song are unique to Spotify.
 
