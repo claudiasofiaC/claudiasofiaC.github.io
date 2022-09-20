@@ -18,9 +18,17 @@ author:
 permalink: "/2021/02/10/kickstarter/"
 ---
 
+###Using machine learning to predict successful campaigns
+--
+---
+
 [See the work](https://claudia-chajon.medium.com/kickstarter-to-succeed-or-not-to-succeed-9c0ca2f665f0)
 
+--
+---
+
 [Kickstarter](https://www.kickstarter.com/) is a company that allows creative projects to come to life through crowdfunding.
+
 
 People who become project backers are offered perks as rewards for pledging money towards the project. These perks are incentives to bring in more backers and thus fulfill the monetary goal of the project.
 
