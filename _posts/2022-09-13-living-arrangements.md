@@ -28,7 +28,7 @@ permalink: "/2022/09/13/living-arrangements/"
 
 
 ---
-[See the work]([https://public.tableau.com/views/HumanResourcesDashboardRWFD/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/LivingArrangementsAmongstYoungAdultsCensus/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
+**[See the work]([https://public.tableau.com/views/HumanResourcesDashboardRWFD/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/LivingArrangementsAmongstYoungAdultsCensus/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link))
 
 Source: U.S. Census Bureau, Current Population Survey, Annual Social and Economic Supplement, 1967 to present
 ---
