@@ -39,13 +39,13 @@ permalink: "/resume"
 
 [UBS](https://www.ubs.com/us/en.html) - remote - January 2023 to Present
 
-### Optimized Organization-Wide Reporting:
-Spearheaded the development of Python scripts within Dataiku for streamlined data extraction and transformation, enhancing organizational efficiency. Designed, tested, and deployed innovative Tableau dashboards for informed decision-making.
+##### Optimized Organization-Wide Reporting:
+>Spearheaded the development of Python scripts within Dataiku for streamlined data extraction and transformation, enhancing organizational efficiency. Designed, tested, and deployed innovative Tableau dashboards for informed decision-making.
 
-### Regulatory Compliance and Reporting Leadership:
+##### Regulatory Compliance and Reporting Leadership:
 Ensured compliance with evolving regulations by proposing and implementing changes to reporting structures, data management processes, and products. Led business-wide reporting efforts, collaborating with senior management to communicate critical insights effectively.
 
-### Stakeholder Engagement and Strategic Alignment:
+##### Stakeholder Engagement and Strategic Alignment:
 Proactively engaged with stakeholders to understand and prioritize business needs, aligning data gathering and modeling strategies with organizational goals.
 
 ## Data Scientist
