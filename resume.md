@@ -14,6 +14,7 @@ permalink: "/resume"
 ---
 
 # Data Scientist
+=============
 
 <div class="column is-full is-size-5">
 {% unless site.email == '' %}
@@ -34,9 +35,11 @@ permalink: "/resume"
 </div>
 
 # Experience
+=======
+
 
 ## Data Analyst
-
+--------------
 [UBS](https://www.ubs.com/us/en.html) - remote - January 2023 to Present
 
 ##### Optimized Organization-Wide Reporting:
