@@ -14,8 +14,8 @@ permalink: "/resume"
 ---
 
 # Data Scientist
-=============================
-
+-------------------------
+--------------------------
 <div class="column is-full is-size-5">
 {% unless site.email == '' %}
 <a href="mailto:{{site.email}}" target="_blank" class="has-text-black"><i class="fas fa-envelope"></i> {{site.email}}</a>
@@ -35,25 +35,25 @@ permalink: "/resume"
 </div>
 
 # Experience
-=======================
-
+-----------------------
+-----------------------
 
 ## Data Analyst
 --------------
-[UBS](https://www.ubs.com/us/en.html) - remote - January 2023 to Present
+[UBS](https://www.ubs.com/us/en.html) - _remote_ - _January 2023 to Present_
 
-##### Optimized Organization-Wide Reporting:
->Spearheaded the development of Python scripts within Dataiku for streamlined data extraction and transformation, enhancing organizational efficiency. Designed, tested, and deployed innovative Tableau dashboards for informed decision-making.
+>##### Optimized Organization-Wide Reporting:
+- Spearheaded the development of Python scripts within Dataiku for streamlined data extraction and transformation, enhancing organizational efficiency. Designed, tested, and deployed innovative Tableau dashboards for informed decision-making.
 
-##### Regulatory Compliance and Reporting Leadership:
-Ensured compliance with evolving regulations by proposing and implementing changes to reporting structures, data management processes, and products. Led business-wide reporting efforts, collaborating with senior management to communicate critical insights effectively.
+>##### Regulatory Compliance and Reporting Leadership:
+- Ensured compliance with evolving regulations by proposing and implementing changes to reporting structures, data management processes, and products. Led business-wide reporting efforts, collaborating with senior management to communicate critical insights effectively.
 
-##### Stakeholder Engagement and Strategic Alignment:
-Proactively engaged with stakeholders to understand and prioritize business needs, aligning data gathering and modeling strategies with organizational goals.
+>##### Stakeholder Engagement and Strategic Alignment:
+- Proactively engaged with stakeholders to understand and prioritize business needs, aligning data gathering and modeling strategies with organizational goals.
 
 ## Data Scientist
 ------------------------
-[Vermeer](https://www.getvermeer.com/) - remote - Feb 2021 to December 2022
+[Vermeer](https://www.getvermeer.com/) - _remote_ - _Feb 2021 to December 2022_
 
 >##### Data Collection and Analysis:
 - Managed the collection, analysis, and processing of intricate datasets using advanced query, visualization, and analytical tools.
@@ -69,49 +69,51 @@ Proactively engaged with stakeholders to understand and prioritize business need
 
 ## Data and Policy Analyst
 ----------------------------------
-[Pie for Providers](https://www.pieforproviders.com/) - remote - Oct 2021 to Jan 2022 (4 month contract)
+[Pie for Providers](https://www.pieforproviders.com/) - _remote_ - _Oct 2021 to Jan 2022 (4 month contract)_
 
 >##### Collaborative SQL Architecture Development:
 - Collaborated with software engineers to design and build the SQL architecture necessary for establishing a comprehensive data warehouse for the product.
 
-### Critical Evaluation of Information:
-Conducted rigorous evaluations of information collected from various sources, ensuring accuracy and reliability for preliminary reviews.
+>##### Critical Evaluation of Information:
+- Conducted rigorous evaluations of information collected from various sources, ensuring accuracy and reliability for preliminary reviews.
 
-### Expertise in Child Care Financial Assistance:
-Demonstrated a deep understanding of current issues and trends in child care financial assistance, specializing in 20 US states.
+>##### Expertise in Child Care Financial Assistance:
+- Demonstrated a deep understanding of current issues and trends in child care financial assistance, specializing in 20 US states.
 
 ## Freelance Data Scientist
-
+--------------------------------
 remote - Oct 2020 to Present
 
-### Created Efficient and Creative Data Visualizations:
-Developed visually compelling and informative data visualizations, optimizing data communication and facilitating better    decision-making.
+>##### Created Efficient and Creative Data Visualizations:
+- Developed visually compelling and informative data visualizations, optimizing data communication and facilitating better    decision-making.
 
-### Data Collection and Formatting:
-Employed SQL, Python (Pandas, NumPy), Jupyter Notebooks, and GitHub to proficiently collect, clean, and format large datasets, ensuring data integrity and accessibility.
+>##### Data Collection and Formatting:
+- Employed SQL, Python (Pandas, NumPy), Jupyter Notebooks, and GitHub to proficiently collect, clean, and format large datasets, ensuring data integrity and accessibility.
 
-### Client Collaboration:
-Collaborated closely with clients to gain a comprehensive understanding of their data pain points, enabling tailored solutions and effective problem-solving.
+>##### Client Collaboration:
+- Collaborated closely with clients to gain a comprehensive understanding of their data pain points, enabling tailored solutions and effective problem-solving.
 
 # Education
+-----------------------
+-------------------------
+[Bloomtech Institute of Technology](https://www.bloomtech.com/hire-from-bloomtech) - _(fka Lambda School)_ - _2019-2020_ - [Badge of Completion](https://www.credly.com/badges/3c7186dc-dfb8-4a22-b974-5c5b7ab5803e/public_url)
 
-[Bloomtech Institute of Technology](https://www.bloomtech.com/hire-from-bloomtech) - (fka Lambda School) - 2019-2020 - [Badge of Completion](https://www.credly.com/badges/3c7186dc-dfb8-4a22-b974-5c5b7ab5803e/public_url)
+>##### Mastery-Based Full-Stack Data Science Curriculum:
+- Completed a rigorous 9-month, 2000+ hour full-stack data science curriculum, focusing on mastery-based learning.
 
-### Mastery-Based Full-Stack Data Science Curriculum:
-Completed a rigorous 9-month, 2000+ hour full-stack data science curriculum, focusing on mastery-based learning.
-
-###  Demonstrated Mastery in Core Areas:
-Exhibited expertise in key areas, including machine learning, data science statistics, big data analytics, and probability & discrete mathematics.
+>#####  Demonstrated Mastery in Core Areas:
+- Exhibited expertise in key areas, including machine learning, data science statistics, big data analytics, and probability & discrete mathematics.
 
 # Skills
-
-### Coding Languages:
+-------------------------
+--------------------------
+> ##### Coding Languages:
 
     - Python
     - SQL
     - R
 
-### Technical Skills:
+>##### Technical Skills:
 
     - A/B Testing
     - Data Visualization
