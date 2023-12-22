@@ -61,7 +61,7 @@ permalink: "/resume"
 >##### Python and Machine Learning Expertise:
 - Utilized Python, PyTorch, and OpenCV within a Unity environment, contributing to the enhancement and maintenance of machine learning models for satellite imagery analysis.
 
-##### Innovative Computer Vision Algorithms:
+>##### Innovative Computer Vision Algorithms:
 - Conducted experiments to develop novel computer vision algorithms, specifically for autonomous UAV navigation in GPS-denied environments.
 
 >##### Stakeholder Engagement:
@@ -82,7 +82,7 @@ permalink: "/resume"
 
 ## Freelance Data Scientist
 --------------------------------
-remote - Oct 2020 to Present
+_remote_ - _Oct 2020 to Present_
 
 >##### Created Efficient and Creative Data Visualizations:
 - Developed visually compelling and informative data visualizations, optimizing data communication and facilitating better    decision-making.
@@ -109,11 +109,13 @@ remote - Oct 2020 to Present
 --------------------------
 > ##### Coding Languages:
 
+
     - Python
     - SQL
     - R
 
 >##### Technical Skills:
+
 
     - A/B Testing
     - Data Visualization
