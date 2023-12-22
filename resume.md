@@ -14,7 +14,7 @@ permalink: "/resume"
 ---
 
 # Data Scientist
-=============
+=============================
 
 <div class="column is-full is-size-5">
 {% unless site.email == '' %}
@@ -35,7 +35,7 @@ permalink: "/resume"
 </div>
 
 # Experience
-=======
+=======================
 
 
 ## Data Analyst
@@ -52,29 +52,27 @@ Ensured compliance with evolving regulations by proposing and implementing chang
 Proactively engaged with stakeholders to understand and prioritize business needs, aligning data gathering and modeling strategies with organizational goals.
 
 ## Data Scientist
-
+------------------------
 [Vermeer](https://www.getvermeer.com/) - remote - Feb 2021 to December 2022
 
-To make your accomplishments more concise and impactful, consider the following revisions:
+>##### Data Collection and Analysis:
+- Managed the collection, analysis, and processing of intricate datasets using advanced query, visualization, and analytical tools.
 
-### Data Collection and Analysis:
-Managed the collection, analysis, and processing of intricate datasets using advanced query, visualization, and analytical tools.
+>##### Python and Machine Learning Expertise:
+- Utilized Python, PyTorch, and OpenCV within a Unity environment, contributing to the enhancement and maintenance of machine learning models for satellite imagery analysis.
 
-### Python and Machine Learning Expertise:
-Utilized Python, PyTorch, and OpenCV within a Unity environment, contributing to the enhancement and maintenance of machine learning models for satellite imagery analysis.
+##### Innovative Computer Vision Algorithms:
+- Conducted experiments to develop novel computer vision algorithms, specifically for autonomous UAV navigation in GPS-denied environments.
 
-### Innovative Computer Vision Algorithms:
-Conducted experiments to develop novel computer vision algorithms, specifically for autonomous UAV navigation in GPS-denied environments.
-
-### Stakeholder Engagement:
-Fostered relationships with project stakeholders by providing valuable input in 94 weekly product reports, ensuring alignment with project goals.
+>##### Stakeholder Engagement:
+- Fostered relationships with project stakeholders by providing valuable input in 94 weekly product reports, ensuring alignment with project goals.
 
 ## Data and Policy Analyst
-
+----------------------------------
 [Pie for Providers](https://www.pieforproviders.com/) - remote - Oct 2021 to Jan 2022 (4 month contract)
 
-### Collaborative SQL Architecture Development:
-Collaborated with software engineers to design and build the SQL architecture necessary for establishing a comprehensive data warehouse for the product.
+>##### Collaborative SQL Architecture Development:
+- Collaborated with software engineers to design and build the SQL architecture necessary for establishing a comprehensive data warehouse for the product.
 
 ### Critical Evaluation of Information:
 Conducted rigorous evaluations of information collected from various sources, ensuring accuracy and reliability for preliminary reviews.
