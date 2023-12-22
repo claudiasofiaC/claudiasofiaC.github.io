@@ -107,14 +107,15 @@ _remote_ - _Oct 2020 to Present_
 # Skills
 -------------------------
 --------------------------
-> ##### Coding Languages:
+
+##### Coding Languages:
 
 
     - Python
     - SQL
     - R
 
->##### Technical Skills:
+##### Technical Skills:
 
 
     - A/B Testing
