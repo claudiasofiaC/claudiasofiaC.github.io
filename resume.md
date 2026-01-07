@@ -31,7 +31,7 @@ permalink: "/resume"
 <br />
 <a href="https://public.tableau.com/app/profile/claudia.chajon" target="_blank" class="has-text-black"><i class="fa fa-area-chart" aria-hidden="true"></i> tableau profile</a>
 <br />
-<a href="/assets/images/Claudia_Chajon_resume.pdf" target="_blank" class="has-text-black"><i class="fa fa-download" aria-hidden="true"></i> resume</a>
+<a href="/assets/images/Claudia_Chajon.pdf" target="_blank" class="has-text-black"><i class="fa fa-download" aria-hidden="true"></i> resume</a>
 </div>
 
 # Experience
@@ -43,13 +43,19 @@ permalink: "/resume"
 [UBS](https://www.ubs.com/us/en.html) - _remote_ - _January 2023 to Present_
 
 >##### Optimized Organization-Wide Reporting:
-- Spearheaded the development of Python scripts within Dataiku for streamlined data extraction and transformation, enhancing organizational efficiency. Designed, tested, and deployed innovative Tableau dashboards for informed decision-making.
+- Owned end-to-end analytics and reporting pipelines supporting high-risk Restrictions & Exits workflows, where data accuracy directly impacts client transaction eligibility.
+- Identified and resolved data quality issues, edge cases, and logic gaps, improving dashboard reliability and auditability in regulated reporting environments.
+- Increased team efficiency by introducing standardized documentation, reusable templates, and peer SQL reviews, improving handoffs and reducing rework.
+
 
 >##### Regulatory Compliance and Reporting Leadership:
-- Ensured compliance with evolving regulations by proposing and implementing changes to reporting structures, data management processes, and products. Led business-wide reporting efforts, collaborating with senior management to communicate critical insights effectively.
+- Designed, validated, and maintained complex business logic for account restriction and unrestriction populations in partnership with stakeholders, ensuring regulatory and operational compliance.
+- Automated a previously manual monthly reconciliation process by developing a Python-based ingestion and reconciliation workflow, reducing processing time from ~1 month to <3 hours (>95% time reduction) and significantly lowering operational risk.
+- Translated ambiguous business requirements into clear technical specifications, accelerating delivery timelines by ~20% across multiple R&E initiatives.
 
 >##### Stakeholder Engagement and Strategic Alignment:
 - Proactively engaged with stakeholders to understand and prioritize business needs, aligning data gathering and modeling strategies with organizational goals.
+- Recognized through multiple strong peer and stakeholder feedbacks for ownership, reliability, and business impact.
 
 ## Data Scientist
 ------------------------
@@ -62,6 +68,7 @@ permalink: "/resume"
 - Utilized Python, PyTorch, and OpenCV within a Unity environment, contributing to the enhancement and maintenance of machine learning models for satellite imagery analysis.
 
 >##### Innovative Computer Vision Algorithms:
+- Improved autonomous system accuracy by 25% through building and evaluating machine learning and deep learning models using Python, PyTorch, and OpenCV.
 - Conducted experiments to develop novel computer vision algorithms, specifically for autonomous UAV navigation in GPS-denied environments.
 
 >##### Stakeholder Engagement:
@@ -128,6 +135,7 @@ _remote_ - _Oct 2020 to Present_
     - Computer Vision
     - Statistics
     - Tableau
+
 
 
 
